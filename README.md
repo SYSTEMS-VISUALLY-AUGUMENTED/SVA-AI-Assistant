@@ -82,8 +82,8 @@ Users sign in with email/password or Google, and their full chat history is sync
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YatharthCoding/AVS.git
-cd AVS
+git clone https://github.com/Yathartsalil/AVS-AI-Assistant.git
+cd AVS-AI-Assistant
 ```
 
 ### 2. Pull the local AI model
